@@ -1,0 +1,28 @@
+name: 30 Day Transfermation
+favicon: null
+layout_spectrum: 0.06469381344504654
+typography_spectrum: 0.36641064984723926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3775114144664258
+  lightness: 0.4698331218678504
+  saturation: 0.9244752358645201
+  rhythmicContrast: 0.3052063877694309
+purpose: []
